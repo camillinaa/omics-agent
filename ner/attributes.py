@@ -1,6 +1,5 @@
 import spacy
 import scispacy
-from scispacy.abbreviation import AbbreviationDetector
 
 # Step 1: Load the metadata CSV
 # metadata_path = "/Users/camilla.callierotti/omics-agent/data/bulk_rna_seq/glio/metadata.csv"
@@ -19,6 +18,4 @@ doc = nlp(text)
 for ent in doc.ents:
     print(ent.text, ent.label_)
 
-
-# query = nlp("How many samples are in the differentiated condition?")
 

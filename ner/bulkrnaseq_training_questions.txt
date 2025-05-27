@@ -1,0 +1,40 @@
+Which gene is most expressed in control?
+What's the expression of TNMD in treated replicates?
+What are the 10 most expressed genes?
+Which genes are upregulated in Gapmer2 vs control?
+Which genes are dpwnregulated in cancer vs healthy?
+“Which genes are differentially expressed in condition X?”
+How many replicates do we have for each condition?
+Can you show me a PCA of the samples?
+Can you show me an MDS plot of the samples?
+Plot a PCA colored by cell type
+What is the average expression level of genes in condition X?
+How many genes are significantly differentially expressed in condition Y?
+What is the fold-change of gene ABC in treated vs control?
+Can you show a volcano plot for the differential expression results?
+What are the top 5 genes with the highest log2 fold change in condition X?
+Can you list all genes that are significantly upregulated in treatment Z?
+Which genes have p-values less than 0.05 after DESeq2 analysis?
+Can you provide a heatmap of gene expression for condition X vs control?
+What are the pathways enriched for differentially expressed genes?
+Can you show me a boxplot of gene expression for gene XYZ across conditions?
+Which genes are most correlated with clinical outcome in condition X?
+Can you display a clustering heatmap of samples based on gene expression?
+How do the samples cluster based on condition?
+Which genes have the lowest variance across samples?
+What are the top enriched GO terms for upregulated genes?
+Can you show a density plot of gene expression for all samples?
+Which genes are downregulated in treated samples compared to control?
+Can you give me the DESeq2 results for gene XYZ?
+Can you generate a bar plot of the sample counts by condition?
+What is the total number of genes expressed above a threshold in each condition?
+Can you show a pairwise comparison of gene expression for the two treatments?
+Which genes have a FDR less than 0.01 after DESeq2?
+Can you perform a differential expression analysis between conditions X and Y?
+Show me the distribution of expression for gene ABC across samples.
+What are the statistical significance results for gene XYZ across conditions?
+Can you list the genes involved in the immune response that are upregulated?
+Can you perform a differential expression analysis for each condition pair?
+What is the most significant gene in pathway ABC for treated vs control?
+What are the results of the enrichr analysis for condition X?
+Can you generate a scatter plot of log2 fold change vs p-value for the DE genes?

@@ -39,6 +39,7 @@ def count_samples_by_group(project_path, condition):
 
 ans= count_samples_by_group("/Users/camilla.callierotti/omics-agent/data/bulk_rna_seq/glio/", "Type")
 print(ans)
+
 # ### 2. COUNT MATRIX QUERIES ###
 
 # def get_most_expressed_gene(project_path, condition):
